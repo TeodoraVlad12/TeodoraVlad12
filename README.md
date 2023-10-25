@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, I am Teodora Vlad👋
+I was born in **Bacau, Romania**, but currently I am studying for my bachelor's degree in Cluj, Romania. I am a second year student at Babes-Bolyai University studying Computer Science.
 
-<!--
-**TeodoraVlad12/TeodoraVlad12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 🔭 Things I work with
+- ⚡C/C++
+- ⚡Python
+- ⚡Java
+- ⚡JavaScript
+- ⚡SQL
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🌱 👯 🤔 💬📫 😄 ⚡ 
+
