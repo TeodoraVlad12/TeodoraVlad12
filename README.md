@@ -1,4 +1,4 @@
-### Hi, I am Teodora Vlad👋
+### Hi, I'm Teodora Vlad👋
 I was born in **Bacau, Romania**, but currently I am studying for my bachelor's degree in Cluj, Romania. I am a second year student at Babes-Bolyai University studying Computer Science.
 
 
