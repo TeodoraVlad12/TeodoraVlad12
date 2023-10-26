@@ -18,7 +18,7 @@ I was born in **Bacau, Romania**, but currently I am studying for my bachelor's 
 <br>
 
 ## 🌱 University work:
-  <br>
+  <br><br><br><br>
 
 
 🌱 👯 🤔 💬📫 😄 ⚡ 
