@@ -44,6 +44,7 @@ I was born in **Bacau, Romania**, but currently I am studying for my bachelor's 
   - ***Functional and Logic Programming*** Prolog/ Lisp
       - Prolog:
           - [Assignment 1](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Functional%20and%20Logic%20Programming%20/Prolog/Assignment%201)
+          - [Assignment 2](https://github.com/TeodoraVlad12/University-Work/tree/main/Second%20year/Functional%20and%20Logic%20Programming%20/Prolog)
  
  
     
