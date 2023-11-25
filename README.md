@@ -40,7 +40,7 @@ I was born in **Bacau, Romania**, but currently I am studying for my bachelor's 
   -  ***Data Bases*** SQL
       - Assignment 1: [Creating a data base](https://github.com/TeodoraVlad12/University-Work/tree/main/Second%20year/Data%20Bases/Assignemt1%20-%20creating%20a%20data%20base)
       - Assignment 2: [Working with queries](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Data%20Bases/Assignment%202-%20SQL%20Queries/A2.sql)
-      - Assignment 3: [Hnadling different versions of the data base](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Data%20Bases/Assignment%203%20-%20Porcedures/A3)
+      - Assignment 3: [Handling different versions of the data base](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Data%20Bases/Assignment%203%20-%20Porcedures/A3)
   - ***Advanced Programming Methods*** Java
       - Assignment 1: [Console application using ***Layered Architecture***](https://github.com/TeodoraVlad12/University-Work/tree/main/Second%20year/Advanced%20Programming%20Methods/Console%20based%20user%20interface%20application)
       - Assignment 2: [Toy language interpreter using ***Layered Architecture***](https://github.com/TeodoraVlad12/University-Work/tree/main/Second%20year/Advanced%20Programming%20Methods/Toy%20language%20interpreter/First%20part)
