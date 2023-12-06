@@ -50,6 +50,8 @@ I was born in **Bacau, Romania**, but currently I am studying for my bachelor's 
           - [Assignment 2](https://github.com/TeodoraVlad12/University-Work/tree/main/Second%20year/Functional%20and%20Logic%20Programming%20/Prolog)
           - [Assignment 3](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Functional%20and%20Logic%20Programming%20/Prolog/Assignment%203)
           - [Prolog exam preparation](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Functional%20and%20Logic%20Programming%20/Prolog/Prolog%20recap)
+      - Lisp:
+          - [Assignment 1]()
  
  
     
