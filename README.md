@@ -55,6 +55,7 @@ I was born in **Bacau, Romania**, but currently I am studying for my bachelor's 
       - Lisp:
           - [Assignment 1](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Functional%20and%20Logic%20Programming%20/Lisp/Assignment%201)
           - [Assignment 2](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Functional%20and%20Logic%20Programming%20/Lisp/Assignment%202)
+          - [Assignment 3](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Functional%20and%20Logic%20Programming%20/Lisp/Assignment%203)
  
  
     
