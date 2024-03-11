@@ -60,7 +60,9 @@ I was born in **Bacau, Romania**, but currently I am studying for my bachelor's 
       - [HTML](https://github.com/TeodoraVlad12/University-Work/tree/main/Second%20year/Web%20programming)
       - [HTML + CSS](https://github.com/TeodoraVlad12/University-Work/tree/main/Second%20year/Web%20programming)
   - ***Artificial intelligence*** 
-      - [First assignment]()
+      - [First assignment](https://github.com/TeodoraVlad12/University-Work/tree/main/Second%20year/Artificial%20Intelligence)
+  - ***Systems for Design and Implementation*** 
+      - [First assignment- ***React + TypeSscript***, CRUD operations](https://github.com/TeodoraVlad12/University-Work/tree/main/Second%20year/Systems%20for%20Design%20and%20Implementation/FirstAssignment-%20CRUD)
           
   
  
