@@ -64,7 +64,7 @@ I was born in **Bacau, Romania**, but currently I am studying for my bachelor's 
       - [First assignment](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Artificial%20Intelligence/AI_2024_lab_01.ipynb)
       - [Second assignment: Preprocessing data, linear regression, regularization](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Artificial%20Intelligence/AI_lab2_2024%20(1).ipynb)
   - ***Systems for Design and Implementation*** 
-      - [First assignment- ***React + TypeSscript***, CRUD operations](https://github.com/TeodoraVlad12/University-Work/tree/main/Second%20year/Systems%20for%20Design%20and%20Implementation/FirstAssignment-%20CRUD)
+      - [First assignment- ***React + TypeScript***, CRUD operations](https://github.com/TeodoraVlad12/University-Work/tree/main/Second%20year/Systems%20for%20Design%20and%20Implementation/FirstAssignment-%20CRUD)
           
   
  
