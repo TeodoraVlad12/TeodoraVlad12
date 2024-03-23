@@ -67,6 +67,8 @@ I was born in **Bacau, Romania**, but currently I am studying for my bachelor's 
       - [Third assignment: Decision Trees](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Artificial%20Intelligence/Lab3_AI_2023_unsolved.ipynb)
   - ***Systems for Design and Implementation*** 
       - [First assignment- ***React + TypeScript***, CRUD operations](https://github.com/TeodoraVlad12/University-Work/tree/main/Second%20year/Systems%20for%20Design%20and%20Implementation/FirstAssignment-%20CRUD)
+  - ***Software Engineering*** 
+      - [Data Validation Module- ***C#***](https://github.com/TeodoraVlad12/University-Work/tree/main/Second%20year/Software%20Engineering/Data%20Validation%20Module)
           
   
  
