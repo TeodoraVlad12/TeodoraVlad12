@@ -1,5 +1,5 @@
 # Hi, I'm Teodora Vlad👋
-I was born in **Bacau, Romania**, but currently I am studying for my bachelor's degree in Cluj, Romania. I am a third year student at Babes-Bolyai University studying Computer Science.
+I was born in **Bacau, Romania**, but currently I am studying for my bachelor's degree in Cluj, Romania. I am a third year student at Babes-Bolyai University studying Computer Science and a Software Developer Engineer Intern at Amazon Iasi.
 <br>
 
 ## 🔭 Things I work with
