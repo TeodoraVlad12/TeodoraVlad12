@@ -1,5 +1,5 @@
 # Hi, I'm Teodora Vlad👋
-I was born in **Bacau, Romania**, but currently I am studying for my bachelor's degree in Cluj, Romania. I am a second year student at Babes-Bolyai University studying Computer Science.
+I was born in **Bacau, Romania**, but currently I am studying for my bachelor's degree in Cluj, Romania. I am a third year student at Babes-Bolyai University studying Computer Science.
 <br>
 
 ## 🔭 Things I work with
@@ -7,8 +7,10 @@ I was born in **Bacau, Romania**, but currently I am studying for my bachelor's 
 - ⚡Python
 - ⚡Java
 - ⚡React + TypeScript
-- ⚡SQL
+- ⚡SQL, MonogDB
 - ⚡HTML + CSS
+- ⚡PHP
+- ⚡AWS - S3, Bedrock
 <br>
 
 ## 👯Here are some of the things I do in my free time:
@@ -63,16 +65,26 @@ I was born in **Bacau, Romania**, but currently I am studying for my bachelor's 
       - [HTML + CSS Layouts](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Web%20programming/Lab3.html)
       - [HTML + JavaScript](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Web%20programming/Lab4.html)
       - [HTML + Jquery](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Web%20programming/Lab5.html)
+      - [PHP + JavaScript + MySQL DB Web app](https://github.com/TeodoraVlad12/University-Work/tree/main/Second%20year/Web%20programming/Lab6)
   - ***Artificial intelligence*** 
       - [First assignment](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Artificial%20Intelligence/AI_2024_lab_01.ipynb)
       - [Second assignment: Preprocessing data, linear regression, regularization](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Artificial%20Intelligence/AI_lab2_2024%20(1).ipynb)
       - [Third assignment: Decision Trees](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Artificial%20Intelligence/Lab3_AI_2023_unsolved.ipynb)
       - [Fourth assignment: Activation Functions. Perceptrons](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Artificial%20Intelligence/LabAI-4-Solved.ipynb)
       - [Fifth assignment: Multilayer perceptron model with PyTorch](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Artificial%20Intelligence/AI_lab_5_solved.ipynb)
+      - [Sixth assignment: Building Classification Models](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Artificial%20Intelligence/AI_lab_6_solved.ipynb)
+      - [Seventh assignment: Computer vision](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Artificial%20Intelligence/AI_lab_7_2023.ipynb)
+      - [Eigth assignment: Evolutionary computation](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Artificial%20Intelligence/Lab8_solved.ipynb)
+      - [Ninth assignment: Problem solving with genetic algorithms](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Artificial%20Intelligence/Lab9.ipynb)
+
+
   - ***Systems for Design and Implementation*** 
       - [First assignment- ***React + TypeScript***, CRUD operations](https://github.com/TeodoraVlad12/University-Work/tree/main/Second%20year/Systems%20for%20Design%20and%20Implementation/FirstAssignment-%20CRUD)
+      - Final assignment- ***Node + TypeScript/ React + TypeScript***, Web app- Node+ TypeScript [Backend](https://github.com/TeodoraVlad12/dogs-lovers-be) deployed on Railway, React+ Typescript [Frontend](https://github.com/TeodoraVlad12/dogs-lovers-fe), CRUD/ Offline support, Pagination, Infinite scroll
   - ***Software Engineering*** 
       - [Data Validation Module- ***C#***](https://github.com/TeodoraVlad12/University-Work/tree/main/Second%20year/Software%20Engineering/Data%20Validation%20Module)
+      - Learned concepts such as SCRUM, Diagrams, Design patterns
+      - Worked in teams for developing .NET app
           
   
  
