@@ -10,7 +10,7 @@ I was born in **Bacau, Romania**, but currently I am studying for my bachelor's 
 - ⚡SQL, MonogDB
 - ⚡HTML + CSS
 - ⚡PHP
-- ⚡AWS - S3, Bedrock
+- ⚡AWS - S3, Bedrock, Lambda
 <br>
 
 ## 👯Here are some of the things I do in my free time:
