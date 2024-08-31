@@ -5,13 +5,16 @@ I was born in **Bacau, Romania**, but currently I am studying for my bachelor's 
 ## 🔭 Things I work with
 - ⚡C/C++/C#
 - ⚡Python
-- ⚡Java
+- ⚡Java, Spring Boot
 - ⚡React + TypeScript
 - ⚡SQL, MonogDB
 - ⚡HTML + CSS
 - ⚡PHP
 - ⚡AWS - S3, Bedrock, Lambda
 <br>
+
+## 🧠 Amazon Internship:
+  I've worked with Spring Boot and AWS services such as S3, Lambda, S3 for developing a chatbot designed to help users effortlessly navigate and understand complex documentation. By retaining conversational context, it provides accurate answers and guides users through an application with ease.
 
 ## 👯Here are some of the things I do in my free time:
 - [Python Speed Typing Test](https://github.com/TeodoraVlad12/My-Learning-Projects/tree/main/Python%20Projects/Speed%20Typing%20Test)
