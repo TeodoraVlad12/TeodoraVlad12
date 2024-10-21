@@ -88,7 +88,16 @@ I was born in **Bacau, Romania**, but currently I am studying for my bachelor's 
       - [Data Validation Module- ***C#***](https://github.com/TeodoraVlad12/University-Work/tree/main/Second%20year/Software%20Engineering/Data%20Validation%20Module)
       - Learned concepts such as SCRUM, Diagrams, Design patterns
       - Worked in teams for developing .NET app
-          
+   
+  <br><br>
+ ### Third year:
+  -  ***Parallel and Distributed Programming*** Java
+      - Assignment 1: [Bank Accounts simulator](https://github.com/TeodoraVlad12/University-Work/tree/main/Third%20Year/Prallel%20and%20Distributed%20Programing/Lab%201/src)
+      - Assignment 2: [Consumer-Producer dynamic](https://github.com/TeodoraVlad12/University-Work/tree/main/Third%20Year/Prallel%20and%20Distributed%20Programing/Lab%202). 
+-  ***Formal Languages and Compiler Design*** Python
+      - [Assignment 1-2](https://github.com/TeodoraVlad12/University-Work/tree/main/Third%20Year/Formal%20Languages%20and%20Compiler%20Design/Lab%201)
+      - [Assignment 3](https://github.com/TeodoraVlad12/University-Work/tree/main/Third%20Year/Formal%20Languages%20and%20Compiler%20Design/Lab3)
+<br><br>
   
  
  
