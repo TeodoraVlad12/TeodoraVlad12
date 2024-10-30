@@ -2,6 +2,8 @@
 I was born in **Bacau, Romania**, but currently I am studying for my bachelor's degree in **Cluj**, Romania. I am a third year student at Babes-Bolyai University studying Computer Science and a Software Developer Engineer Intern at **Amazon Iasi**.
 <br>
 
+Here you can find my [LinkedIn](https://www.linkedin.com/in/teodora-vlad-57687629a/) profile.
+
 ## 🔭 Things I work with
 - ⚡C/C++/C#
 - ⚡Python
