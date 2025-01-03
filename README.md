@@ -1,5 +1,5 @@
 # Hi, I'm Teodora Vlad👋
-I was born in **Bacau, Romania**, but currently I am studying for my bachelor's degree in **Cluj**, Romania. I am a third year student at Babes-Bolyai University studying Computer Science and a Software Developer Engineer Intern at **Amazon Iasi**.
+I was born in **Bacau, Romania**, but currently I am studying for my bachelor's degree in **Cluj**, Romania. I am a third year student at Babes-Bolyai University studying Computer Science and a former Software Developer Engineer Intern at **Amazon Iasi**.
 <br>
 
 Here you can find my [LinkedIn](https://www.linkedin.com/in/teodora-vlad-57687629a/) profile. Let's connect and talk about new opportunities.
@@ -93,12 +93,22 @@ Here you can find my [LinkedIn](https://www.linkedin.com/in/teodora-vlad-5768762
    
   <br><br>
  ### Third year:
-  -  ***Parallel and Distributed Programming*** Java
+  -  ***Parallel and Distributed Programming*** Java, C#, C++
       - Assignment 1: [Bank Accounts simulator](https://github.com/TeodoraVlad12/University-Work/tree/main/Third%20Year/Prallel%20and%20Distributed%20Programing/Lab%201/src)
-      - Assignment 2: [Consumer-Producer dynamic](https://github.com/TeodoraVlad12/University-Work/tree/main/Third%20Year/Prallel%20and%20Distributed%20Programing/Lab%202). 
+      - Assignment 2: [Consumer-Producer dynamic](https://github.com/TeodoraVlad12/University-Work/tree/main/Third%20Year/Prallel%20and%20Distributed%20Programing/Lab%202).
+      - Assignment 3: [Parallel tasks](https://github.com/TeodoraVlad12/University-Work/tree/main/Third%20Year/Prallel%20and%20Distributed%20Programing/Lab%203)
+      - Assignment 4: [Futures and continuations](https://github.com/TeodoraVlad12/University-Work/tree/main/Third%20Year/Prallel%20and%20Distributed%20Programing/Lab%204)
+      - Assignment 5: [Parallelizing techniques](https://github.com/TeodoraVlad12/University-Work/tree/main/Third%20Year/Prallel%20and%20Distributed%20Programing/Lab5)
+      - Assignment 6: [Parallel exploration](https://github.com/TeodoraVlad12/University-Work/tree/main/Third%20Year/Prallel%20and%20Distributed%20Programing/Lab6)
+      - Project: [15 Puzzle Problem- Threads & MPI Programming](https://github.com/TeodoraVlad12/University-Work/tree/main/Third%20Year/Prallel%20and%20Distributed%20Programing/Project)
 -  ***Formal Languages and Compiler Design*** Python
-      - [Assignment 1-2](https://github.com/TeodoraVlad12/University-Work/tree/main/Third%20Year/Formal%20Languages%20and%20Compiler%20Design/Lab%201)
-      - [Assignment 3](https://github.com/TeodoraVlad12/University-Work/tree/main/Third%20Year/Formal%20Languages%20and%20Compiler%20Design/Lab3)
+      - [Finite Automata](https://github.com/TeodoraVlad12/University-Work/tree/main/Third%20Year/Formal%20Languages%20and%20Compiler%20Design/Lab4-FA)
+      - [Scanner](https://github.com/TeodoraVlad12/University-Work/tree/main/Third%20Year/Formal%20Languages%20and%20Compiler%20Design/Lab3-Scanner)
+      - [Parser](https://github.com/TeodoraVlad12/University-Work/tree/main/Third%20Year/Formal%20Languages%20and%20Compiler%20Design/FinalLabParser)
+-  ***Mobile Applications*** Kotlin, React Native, Node.js
+      - [Kotlin UI](https://github.com/TeodoraVlad12/University-Work/tree/main/Third%20Year/Mobile%20Applications/UI-Native)
+      - [React Native UI](https://github.com/TeodoraVlad12/University-Work/tree/main/Third%20Year/Mobile%20Applications/UI-NonNative)
+      - [React Native Ui with local DB integration](https://github.com/TeodoraVlad12/University-Work/tree/main/Third%20Year/Mobile%20Applications/ReactNative-LocalDB)
 <br><br>
   
  
