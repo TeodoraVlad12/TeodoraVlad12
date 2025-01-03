@@ -50,51 +50,51 @@ Here you can find my [LinkedIn](https://www.linkedin.com/in/teodora-vlad-5768762
       - [GUI Application ***Layered Architecture C++](https://github.com/TeodoraVlad12/University-Work/tree/main/First%20Year/Object%20Oriented%20Programming/Menu%20driven%20console%20based%20user%20interface%20application)
 <br><br>
 ### Second year:
-  -  ***Data Bases*** SQL
-      - Assignment 1: [Creating a data base](https://github.com/TeodoraVlad12/University-Work/tree/main/Second%20year/Data%20Bases/Assignemt1%20-%20creating%20a%20data%20base)
-      - Assignment 2: [Working with queries](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Data%20Bases/Assignment%202-%20SQL%20Queries/A2.sql)
-      - Assignment 3: [Handling different versions of the data base](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Data%20Bases/Assignment%203%20-%20Porcedures/A3)
-      - Assignment 4: [Tests](https://github.com/TeodoraVlad12/University-Work/tree/main/Second%20year/Data%20Bases/Assignment%204%20-%20Tests)
-      - Assignment 5: [Indexes](https://github.com/TeodoraVlad12/University-Work/tree/main/Second%20year/Data%20Bases/Assignment%205%20-%20Indexes)
-  - ***Advanced Programming Methods*** Java
-      - Assignment 1: [Console application using ***Layered Architecture***](https://github.com/TeodoraVlad12/University-Work/tree/main/Second%20year/Advanced%20Programming%20Methods/Console%20based%20user%20interface%20application)
-      - Assignment 2: [Toy language interpreter using ***Layered Architecture***](https://github.com/TeodoraVlad12/University-Work/tree/main/Second%20year/Advanced%20Programming%20Methods/Toy%20language%20interpreter)
-  - ***Functional and Logic Programming*** Prolog/ Lisp
-      - Prolog:
-          - [Assignment 1](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Functional%20and%20Logic%20Programming%20/Prolog/Assignment%201)
-          - [Assignment 2](https://github.com/TeodoraVlad12/University-Work/tree/main/Second%20year/Functional%20and%20Logic%20Programming%20/Prolog)
-          - [Assignment 3](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Functional%20and%20Logic%20Programming%20/Prolog/Assignment%203)
-          - [Prolog exam preparation](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Functional%20and%20Logic%20Programming%20/Prolog/Prolog%20recap)
-      - Lisp:
-          - [Assignment 1](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Functional%20and%20Logic%20Programming%20/Lisp/Assignment%201)
-          - [Assignment 2](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Functional%20and%20Logic%20Programming%20/Lisp/Assignment%202)
-          - [Assignment 3](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Functional%20and%20Logic%20Programming%20/Lisp/Assignment%203)
-  - ***Web Programming*** 
-      - [HTML](https://github.com/TeodoraVlad12/University-Work/tree/main/Second%20year/Web%20programming)
-      - [HTML + CSS](https://github.com/TeodoraVlad12/University-Work/tree/main/Second%20year/Web%20programming)
-      - [HTML + CSS Layouts](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Web%20programming/Lab3.html)
-      - [HTML + JavaScript](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Web%20programming/Lab4.html)
-      - [HTML + Jquery](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Web%20programming/Lab5.html)
-      - [PHP + JavaScript + MySQL DB Web app](https://github.com/TeodoraVlad12/University-Work/tree/main/Second%20year/Web%20programming/Lab6)
-  - ***Artificial intelligence*** 
-      - [First assignment](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Artificial%20Intelligence/AI_2024_lab_01.ipynb)
-      - [Second assignment: Preprocessing data, linear regression, regularization](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Artificial%20Intelligence/AI_lab2_2024%20(1).ipynb)
-      - [Third assignment: Decision Trees](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Artificial%20Intelligence/Lab3_AI_2023_unsolved.ipynb)
-      - [Fourth assignment: Activation Functions. Perceptrons](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Artificial%20Intelligence/LabAI-4-Solved.ipynb)
-      - [Fifth assignment: Multilayer perceptron model with PyTorch](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Artificial%20Intelligence/AI_lab_5_solved.ipynb)
-      - [Sixth assignment: Building Classification Models](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Artificial%20Intelligence/AI_lab_6_solved.ipynb)
-      - [Seventh assignment: Computer vision](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Artificial%20Intelligence/AI_lab_7_2023.ipynb)
-      - [Eigth assignment: Evolutionary computation](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Artificial%20Intelligence/Lab8_solved.ipynb)
-      - [Ninth assignment: Problem solving with genetic algorithms](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Artificial%20Intelligence/Lab9.ipynb)
+-  ***Data Bases*** SQL
+    - Assignment 1: [Creating a data base](https://github.com/TeodoraVlad12/University-Work/tree/main/Second%20year/Data%20Bases/Assignemt1%20-%20creating%20a%20data%20base)
+    - Assignment 2: [Working with queries](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Data%20Bases/Assignment%202-%20SQL%20Queries/A2.sql)
+    - Assignment 3: [Handling different versions of the data base](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Data%20Bases/Assignment%203%20-%20Porcedures/A3)
+    - Assignment 4: [Tests](https://github.com/TeodoraVlad12/University-Work/tree/main/Second%20year/Data%20Bases/Assignment%204%20-%20Tests)
+    - Assignment 5: [Indexes](https://github.com/TeodoraVlad12/University-Work/tree/main/Second%20year/Data%20Bases/Assignment%205%20-%20Indexes)
+- ***Advanced Programming Methods*** Java
+    - Assignment 1: [Console application using ***Layered Architecture***](https://github.com/TeodoraVlad12/University-Work/tree/main/Second%20year/Advanced%20Programming%20Methods/Console%20based%20user%20interface%20application)
+    - Assignment 2: [Toy language interpreter using ***Layered Architecture***](https://github.com/TeodoraVlad12/University-Work/tree/main/Second%20year/Advanced%20Programming%20Methods/Toy%20language%20interpreter)
+- ***Functional and Logic Programming*** Prolog/ Lisp
+  - Prolog:
+    - [Assignment 1](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Functional%20and%20Logic%20Programming%20/Prolog/Assignment%201)
+    - [Assignment 2](https://github.com/TeodoraVlad12/University-Work/tree/main/Second%20year/Functional%20and%20Logic%20Programming%20/Prolog)
+    - [Assignment 3](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Functional%20and%20Logic%20Programming%20/Prolog/Assignment%203)
+    - [Prolog exam preparation](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Functional%20and%20Logic%20Programming%20/Prolog/Prolog%20recap)
+   - Lisp:
+    - [Assignment 1](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Functional%20and%20Logic%20Programming%20/Lisp/Assignment%201)
+    - [Assignment 2](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Functional%20and%20Logic%20Programming%20/Lisp/Assignment%202)
+    - [Assignment 3](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Functional%20and%20Logic%20Programming%20/Lisp/Assignment%203)
+- ***Web Programming*** 
+    - [HTML](https://github.com/TeodoraVlad12/University-Work/tree/main/Second%20year/Web%20programming)
+    - [HTML + CSS](https://github.com/TeodoraVlad12/University-Work/tree/main/Second%20year/Web%20programming)
+    - [HTML + CSS Layouts](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Web%20programming/Lab3.html)
+    - [HTML + JavaScript](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Web%20programming/Lab4.html)
+    - [HTML + Jquery](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Web%20programming/Lab5.html)
+    - [PHP + JavaScript + MySQL DB Web app](https://github.com/TeodoraVlad12/University-Work/tree/main/Second%20year/Web%20programming/Lab6)
+- ***Artificial intelligence*** 
+    - [First assignment](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Artificial%20Intelligence/AI_2024_lab_01.ipynb)
+    - [Second assignment: Preprocessing data, linear regression, regularization](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Artificial%20Intelligence/AI_lab2_2024%20(1).ipynb)
+    - [Third assignment: Decision Trees](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Artificial%20Intelligence/Lab3_AI_2023_unsolved.ipynb)
+    - [Fourth assignment: Activation Functions. Perceptrons](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Artificial%20Intelligence/LabAI-4-Solved.ipynb)
+    - [Fifth assignment: Multilayer perceptron model with PyTorch](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Artificial%20Intelligence/AI_lab_5_solved.ipynb)
+    - [Sixth assignment: Building Classification Models](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Artificial%20Intelligence/AI_lab_6_solved.ipynb)
+    - [Seventh assignment: Computer vision](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Artificial%20Intelligence/AI_lab_7_2023.ipynb)
+    - [Eigth assignment: Evolutionary computation](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Artificial%20Intelligence/Lab8_solved.ipynb)
+    - [Ninth assignment: Problem solving with genetic algorithms](https://github.com/TeodoraVlad12/University-Work/blob/main/Second%20year/Artificial%20Intelligence/Lab9.ipynb)
 
 
-  - ***Systems for Design and Implementation*** 
-      - [First assignment- ***React + TypeScript***, CRUD operations](https://github.com/TeodoraVlad12/University-Work/tree/main/Second%20year/Systems%20for%20Design%20and%20Implementation/FirstAssignment-%20CRUD)
-      - Final assignment- ***Node + TypeScript/ React + TypeScript***, Web app- Node+ TypeScript [Backend](https://github.com/TeodoraVlad12/dogs-lovers-be) deployed on Railway, React+ Typescript [Frontend](https://github.com/TeodoraVlad12/dogs-lovers-fe), CRUD/ Offline support, Pagination, Infinite scroll
-  - ***Software Engineering*** 
-      - [Data Validation Module- ***C#***](https://github.com/TeodoraVlad12/University-Work/tree/main/Second%20year/Software%20Engineering/Data%20Validation%20Module)
-      - Learned concepts such as SCRUM, Diagrams, Design patterns
-      - Worked in teams for developing .NET app
+- ***Systems for Design and Implementation*** 
+  - [First assignment- ***React + TypeScript***, CRUD operations](https://github.com/TeodoraVlad12/University-Work/tree/main/Second%20year/Systems%20for%20Design%20and%20Implementation/FirstAssignment-%20CRUD)
+  - Final assignment- ***Node + TypeScript/ React + TypeScript***, Web app- Node+ TypeScript [Backend](https://github.com/TeodoraVlad12/dogs-lovers-be) deployed on Railway, React+ Typescript [Frontend](https://github.com/TeodoraVlad12/dogs-lovers-fe), CRUD/ Offline support, Pagination, Infinite scroll
+- ***Software Engineering*** 
+  - [Data Validation Module- ***C#***](https://github.com/TeodoraVlad12/University-Work/tree/main/Second%20year/Software%20Engineering/Data%20Validation%20Module)
+  - Learned concepts such as SCRUM, Diagrams, Design patterns
+  - Worked in teams for developing .NET app
    
   <br><br>
  ### Third year:
