@@ -25,6 +25,8 @@ Here you can find my [LinkedIn](https://www.linkedin.com/in/teodora-vlad-5768762
 - [Python Speed Typing Test](https://github.com/TeodoraVlad12/My-Learning-Projects/tree/main/Python%20Projects/Speed%20Typing%20Test)
 - [JavaScript Slot Machine](https://github.com/TeodoraVlad12/My-Learning-Projects/tree/main/JavaScript%20Projects/Slot%20Machine)
 - [Small games](https://github.com/TeodoraVlad12/Games/tree/main/Python%20Games/Console%20games)
+- [Chatbot web app](https://github.com/TeodoraVlad12/Chatbot)
+- [Dogs](https://github.com/TeodoraVlad12/dogs-lovers-be) [Shelter](https://github.com/TeodoraVlad12/dogs-lovers-fe) web app with offline support, session management, infinite scrolling, authentication & authorization, pagination and the backend deployed on Railway
 
 <br>
 
