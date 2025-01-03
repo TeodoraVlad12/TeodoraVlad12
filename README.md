@@ -5,14 +5,17 @@ I was born in **Bacau, Romania**, but currently I am studying for my bachelor's 
 Here you can find my [LinkedIn](https://www.linkedin.com/in/teodora-vlad-57687629a/) profile. Let's connect and talk about new opportunities.
 
 ## 🔭 Things I work with
-- ⚡C/C++/C#
+- ⚡C++
 - ⚡Python
 - ⚡Java, Spring Boot
-- ⚡React + TypeScript
-- ⚡SQL, MonogDB
+- ⚡React
+- ⚡TypeScript, JavaScript
+- ⚡Node.js
+- ⚡SQL, MongoDB
 - ⚡HTML + CSS
 - ⚡PHP
 - ⚡AWS - S3, Bedrock, Lambda
+- ⚡React Native
 <br>
 
 ## 🧠 Amazon Internship:
