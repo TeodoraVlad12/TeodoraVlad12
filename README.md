@@ -114,6 +114,7 @@ Here you can find my [LinkedIn](https://www.linkedin.com/in/teodora-vlad-5768762
       - [Kotlin UI](https://github.com/TeodoraVlad12/University-Work/tree/main/Third%20Year/Mobile%20Applications/UI-Native)
       - [React Native UI](https://github.com/TeodoraVlad12/University-Work/tree/main/Third%20Year/Mobile%20Applications/UI-NonNative)
       - [React Native Ui with local DB integration](https://github.com/TeodoraVlad12/University-Work/tree/main/Third%20Year/Mobile%20Applications/ReactNative-LocalDB)
+      - [React Native Mobile App with Server integration and websockets](https://github.com/TeodoraVlad12/University-Work/tree/main/Third%20Year/Mobile%20Applications/ServerIntegration)
 <br><br>
   
  
